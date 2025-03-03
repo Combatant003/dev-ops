@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://sturdy-giggle-wxwjx97vv56cg9vw-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://sturdy-giggle-wxwjx97vv56cg9vw-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=b53796c2-9e15-4809-8908-08400636f976
+ceTaskUrl=https://sturdy-giggle-wxwjx97vv56cg9vw-9000.app.github.dev/api/ce/task?id=b53796c2-9e15-4809-8908-08400636f976
